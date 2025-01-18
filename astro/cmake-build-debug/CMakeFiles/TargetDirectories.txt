@@ -1,0 +1,3 @@
+C:/wsl/github/astro/cmake-build-debug/CMakeFiles/astro.dir
+C:/wsl/github/astro/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/wsl/github/astro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
